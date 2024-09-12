@@ -371,10 +371,10 @@ refJob1.textContent,
 phoneNum1.textContent,
 email1.textContent
 ];
-let myRefList2 = ["Amnah Salem",
+let myRefList2 = ["Ahmed Salem",
     "SQL Admin.",
     "+966 556688442",
-    "Amnah.sa@gmail.com"
+    "Ahmed.sa@gmail.com"
 ];
 function myRef2(isMouseHover) {
     if (isMouseHover) {
