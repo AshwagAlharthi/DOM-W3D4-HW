@@ -30,14 +30,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(36, 140, 83); */
         width: 80%;
         height: 33vh;
         color: white;
     }
 
     .contact-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -53,7 +51,6 @@
     }
 
     .ul-contact {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -67,7 +64,6 @@
         justify-content: flex-start;
         align-items: center;
         gap: 0.8rem;
-        /* background-color: violet; */
         width: 100%;
     }
 
@@ -76,14 +72,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(66, 121, 121); */
         width: 80%;
         height: 45vh;
         color: white;
     }
 
     .education-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -103,14 +97,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(121, 66, 105); */
         width: 80%;
         height: 18vh;
         color: white;
     }
 
     .ul-education {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -119,12 +111,10 @@
     }
 
     .ul-education li {
-        /* background-color: violet; */
         width: 90%;
     }
 
     .education2 .ul-education {
-        /* background-color: rgb(13, 87, 215); */
         height: 40%;
     }
 
@@ -133,14 +123,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(164, 28, 28); */
         width: 80%;
         height: 38vh;
         color: white;
     }
 
     .skills-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -159,14 +147,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(121, 66, 105); */
         width: 80%;
         height: 30vh;
         color: white;
     }
 
     .ul-skills {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -175,7 +161,6 @@
     }
 
     .ul-skills li {
-        /* background-color: violet; */
         width: 90%;
     }
 
@@ -184,14 +169,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(113, 113, 113); */
         width: 80%;
         height: 25vh;
         color: white;
     }
 
     .languages-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -210,14 +193,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(121, 66, 105); */
         width: 80%;
         height: 16vh;
         color: white;
     }
 
     .ul-languages {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -226,7 +207,6 @@
     }
 
     .ul-languages li {
-        /* background-color: violet; */
         width: 90%;
     }
 
@@ -246,7 +226,6 @@
 
     /* NAME */
     .name-container {
-        /* background-color: rgb(126, 123, 130); */
         height: 35vh;
         width: 100%;
         display: flex;
@@ -256,7 +235,6 @@
     }
 
     .name-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -286,7 +264,6 @@
 
     /* PROFILE */
     .profile-container {
-        /* background-color: rgb(255, 114, 114); */
         height: 26vh;
         width: 100%;
         display: flex;
@@ -296,7 +273,6 @@
     }
 
     .profile-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -314,7 +290,6 @@
 
     /* WORK EXPERIENCE  */
     .wExperience-container {
-        /* background-color: rgb(64, 165, 79); */
         height: 90vh;
         width: 100%;
         display: flex;
@@ -324,7 +299,6 @@
     }
 
     .wExperience-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -334,7 +308,6 @@
     }
 
     .ul-wExperience {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -345,7 +318,6 @@
     }
 
     .ul-wExperience li {
-        /* background-color: violet; */
         width: 98%;
         position: relative;
     }
@@ -360,8 +332,6 @@
         background-color: #163853;
 
     }
-
-
 
     .wExperience-content h4 {
         font-size: 1.1rem;
@@ -385,7 +355,6 @@
     }
 
     .inner-ul li {
-        /* background-color: bisque; */
         margin-right: 10px;
         width: 95%;
         text-align: justify;
@@ -393,7 +362,6 @@
 
     /* REFERENCE */
     .reference-container {
-        /* background-color: rgb(255, 114, 114); */
         height: 28vh;
         width: 100%;
         display: flex;
@@ -403,7 +371,6 @@
     }
 
     .reference-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -415,14 +382,12 @@
     .reference-details {
         display: flex;
         justify-content: space-between;
-        /* background-color: #1c618e; */
         height: 60%;
         color: #54545f;
     }
 
     .left-details,
     .right-details {
-        /* background-color: rgb(148, 148, 14); */
         height: 100%;
         width: 30%;
         display: flex;
@@ -478,14 +443,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(36, 140, 83); */
         width: 80%;
         height: 33vh;
         color: white;
     }
 
     .contact-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -501,7 +464,6 @@
     }
 
     .ul-contact {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -515,7 +477,6 @@
         justify-content: flex-start;
         align-items: center;
         gap: 0.8rem;
-        /* background-color: violet; */
         width: 100%;
     }
 
@@ -524,14 +485,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(66, 121, 121); */
         width: 80%;
         height: 52vh;
         color: white;
     }
 
     .education-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -551,14 +510,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(121, 66, 105); */
         width: 80%;
         height: 23vh;
         color: white;
     }
 
     .ul-education {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -567,12 +524,10 @@
     }
 
     .ul-education li {
-        /* background-color: violet; */
         width: 90%;
     }
 
     .education2 .ul-education {
-        /* background-color: rgb(13, 87, 215); */
         height: 40%;
     }
 
@@ -581,14 +536,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(164, 28, 28); */
         width: 80%;
         height: 45vh;
         color: white;
     }
 
     .skills-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -607,14 +560,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(121, 66, 105); */
         width: 80%;
         height: 35vh;
         color: white;
     }
 
     .ul-skills {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -623,7 +574,6 @@
     }
 
     .ul-skills li {
-        /* background-color: violet; */
         width: 90%;
     }
 
@@ -632,14 +582,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(113, 113, 113); */
         width: 80%;
         height: 28vh;
         color: white;
     }
 
     .languages-header {
-        /* background-color: antiquewhite; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -658,14 +606,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        /* background-color: rgb(121, 66, 105); */
         width: 80%;
         height: 18vh;
         color: white;
     }
 
     .ul-languages {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -674,7 +620,6 @@
     }
 
     .ul-languages li {
-        /* background-color: violet; */
         width: 90%;
     }
 
@@ -694,7 +639,6 @@
 
     /* NAME */
     .name-container {
-        /* background-color: rgb(126, 123, 130); */
         height: 35vh;
         width: 100%;
         display: flex;
@@ -704,7 +648,6 @@
     }
 
     .name-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -734,7 +677,6 @@
 
     /* PROFILE */
     .profile-container {
-        /* background-color: rgb(255, 114, 114); */
         height: 45vh;
         width: 100%;
         display: flex;
@@ -744,7 +686,6 @@
     }
 
     .profile-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -762,7 +703,6 @@
 
     /* WORK EXPERIENCE  */
     .wExperience-container {
-        /* background-color: rgb(64, 165, 79); */
         height: 130vh;
         width: 100%;
         display: flex;
@@ -772,7 +712,6 @@
     }
 
     .wExperience-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -782,7 +721,6 @@
     }
 
     .ul-wExperience {
-        /* background-color: rgb(215, 127, 13); */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -793,7 +731,6 @@
     }
 
     .ul-wExperience li {
-        /* background-color: violet; */
         width: 98%;
         position: relative;
     }
@@ -830,7 +767,6 @@
     }
 
     .inner-ul li {
-        /* background-color: bisque; */
         margin-right: 10px;
         width: 95%;
         text-align: justify;
@@ -838,7 +774,6 @@
 
     /* REFERENCE */
     .reference-container {
-        /* background-color: rgb(255, 114, 114); */
         height: 60vh;
         width: 100%;
         display: flex;
@@ -848,7 +783,6 @@
     }
 
     .reference-content {
-        /* background-color: rgb(161, 202, 203); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -861,14 +795,12 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        /* background-color: #1c618e; */
         height: 80%;
         color: #54545f;
     }
 
     .left-details,
     .right-details {
-        /* background-color: rgb(148, 148, 14); */
         height: 45%;
         width: 70%;
         display: flex;
@@ -887,29 +819,3 @@
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.hidden {
-    display: none;
-}
-
-/* .ul-contact li.hidden-content {
-    display: none;
-} */
-
-
-/* #ulContainer .workScetion3.hidden {
-    display: none;
-} */

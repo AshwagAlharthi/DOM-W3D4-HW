@@ -69,11 +69,8 @@ function myEdu(isMouseHover) {
         eduUni2.textContent = '';
         eduDgr2.textContent = '';
         eduDgr2Gpa.textContent = '';
-
-
-        // listItems.forEach(item => {
-        //     item.classList.add('hidden-content');
-        // });
+        eduDgr2.style.listStyleType = 'none';
+        eduDgr2Gpa.style.listStyleType = 'none';
     } else {
         eduYear1.textContent = preEdu1[0];
         eduUni1.textContent = preEdu1[1];
@@ -82,10 +79,8 @@ function myEdu(isMouseHover) {
         eduUni2.textContent = preEdu2[1];
         eduDgr2.textContent = preEdu2[2];
         eduDgr2Gpa.textContent = preEdu2[3];
-
-        // listItems.forEach(item => {
-        //     item.classList.remove('hidden-content');
-        // });
+        eduDgr2.style.listStyleType = '';
+        eduDgr2Gpa.style.listStyleType = '';
     }
 }
 
@@ -138,14 +133,15 @@ function myLang(isMouseHover) {
         language2.textContent = myLangList[1];
         language3.textContent = '';
         language4.textContent = '';
+        language3.style.listStyleType = 'none';
+        language4.style.listStyleType = 'none';
     } else {
         language1.textContent = preLangList[0];
         language2.textContent = preLangList[1];
         language3.textContent = preLangList[2];
         language4.textContent = preLangList[3];
-        // listItems.forEach(item => {
-        //     item.classList.remove('hidden-content');
-        // });
+        language3.style.listStyleType = '';
+        language4.style.listStyleType = '';
     }
 }
 
@@ -345,7 +341,7 @@ let myRefList1 = ["Mohammed Abdullah",
     "Manager of Web Dev.",
     "+966 555888550",
     "Mo.Abdullah@gmail.com"
-    ];
+];
 function myRef1(isMouseHover) {
     if (isMouseHover) {
         refName1.textContent = myRefList1[0];
@@ -379,7 +375,7 @@ let myRefList2 = ["Amnah Salem",
     "SQL Admin.",
     "+966 556688442",
     "Amnah.sa@gmail.com"
-    ];
+];
 function myRef2(isMouseHover) {
     if (isMouseHover) {
         refName2.textContent = myRefList2[0];
